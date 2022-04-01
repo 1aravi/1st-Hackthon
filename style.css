@@ -1,0 +1,25 @@
+#search{
+    color: red;
+}
+body{
+    background-color: wheat;
+    text-align:center;
+    padding-top: 100px;
+    margin: 10px;
+    font-size: larger;
+    text-align: center;
+    
+}
+input{
+    background-color: yellow;
+    font-size: larger;
+    padding: 10px;
+}
+button{
+    background-color: orange;
+    font-size: larger;
+    
+    margin: 20px;
+    text-align: center;
+   
+}
